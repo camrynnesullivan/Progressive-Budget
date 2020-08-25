@@ -52,9 +52,9 @@ SO THAT my account balance is accurate when I am traveling
 ### Tests
 
 - See deployed app on
-  [Heroku ]()
+  [Heroku ](https://arcane-shore-52775.herokuapp.com/)
   and
-  [GitHub ]()
+  [GitHub ](https://github.com/camrynnesullivan/Progressive-Budget)
 
   to test features.
 
